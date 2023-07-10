@@ -4,7 +4,7 @@ body{
     background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
 }
 
-.wrapper,#sceen,.calcButton{
+.wrapper,.screen,.calcButton{
     backdrop-filter: blur(5.5px);
     -webkit-backdrop-filter: blur(5.5px);
     background: rgba(255, 255, 255, 0.75);
@@ -24,7 +24,7 @@ body{
     padding: 20px 35px;
 }
 
-#screen{
+.screen{
     font-size: 35px;
     overflow: auto;
     padding: 20px;
